@@ -3,12 +3,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.lovept</groupId>
-    <artifactId>TorrentTools</artifactId>
+    <artifactId>torrent_tools</artifactId>
     <version>0.0.1</version>
     <packaging>jar</packaging>
 
-    <name>TorrentTools</name>
-    <description>TorrentTools</description>
+    <name>torrent_tools</name>
+    <description>torrent_tools</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
